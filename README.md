@@ -2,7 +2,7 @@
 Covid-19 analysis using SQL and Tableau
 
 ### Task
-Analyse Covid-19 data.
+Analyze Covid-19 data.
 
 ### Data Set
 - Covid-19 data from [Our World in Data](https://ourworldindata.org/covid-deaths).
