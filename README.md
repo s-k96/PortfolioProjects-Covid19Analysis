@@ -2,8 +2,6 @@
 Covid-19 analysis using SQL and Tableau
 ![coronavirus4m_qab3dz](https://github.com/s-k96/PortfolioProjects-Covid19Analysis/assets/150070489/be73e981-f50c-480b-ae3a-9b66def5f932)
 
-
-
 ### Task
 Analyze Covid-19 data.
 
@@ -17,3 +15,9 @@ Analyze Covid-19 data.
 
 ### Tableau Dashboard
 ![SK Covid Tableau](https://github.com/s-k96/PortfolioProjects-Covid19Analysis/assets/150070489/bf8c94b2-4023-4ba7-9244-a070e853362d)
+
+_This project has been created with the help of the following tutorials:_ 
+
+https://youtu.be/qfyynHBFOsM?si=etqbaftgqP2xYLRJ
+
+https://youtu.be/QILNlRvJlfQ?si=lmrN7b-Wj8VvbYq_
