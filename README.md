@@ -1,5 +1,8 @@
 # PortfolioProjects-Covid19Analysis
 Covid-19 analysis using SQL and Tableau
+![coronavirus4m_qab3dz](https://github.com/s-k96/PortfolioProjects-Covid19Analysis/assets/150070489/be73e981-f50c-480b-ae3a-9b66def5f932)
+
+
 
 ### Task
 Analyze Covid-19 data.
